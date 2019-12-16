@@ -1,4 +1,4 @@
-# Medical Appointment No Shows Prediction
+# PUBG Finish placement prediction
 >TODO
 
 ## Brief
