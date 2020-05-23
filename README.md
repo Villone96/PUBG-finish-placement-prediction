@@ -1,10 +1,8 @@
 # PUBG Finish placement prediction
->TODO
+Final Project of Advance Machine Learning Subject, Università degli Studi di Milano Bicocca.
 
 ## Brief
-
-TODO
+Finish placement classification about PlayerUnknown's Battlegrounds videogames with Neural Networks.
 
 ## Authors
-* [**Bruno Palazzi**](https://github.com/BrunoPalazzi42) (806908)
 * [**Giacomo Villa**](https://github.com/Villone96) (807462)
